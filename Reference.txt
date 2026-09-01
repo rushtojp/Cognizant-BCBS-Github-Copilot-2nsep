@@ -13,6 +13,10 @@ Github exercise repo
 
 https://github.com/MicrosoftLearning/mslearn-github-copilot-dev/tree/main/LabFiles
 
+Additional repo
+
+https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/
+
 
 GitHub Copilot Documentation & Resources
 ========================================
