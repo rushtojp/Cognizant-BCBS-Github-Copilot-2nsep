@@ -14,3 +14,43 @@ Github exercise repo
 https://github.com/MicrosoftLearning/mslearn-github-copilot-dev/tree/main/LabFiles
 
 
+GitHub Copilot Documentation & Resources
+========================================
+
+- Responsible AI and Safe GitHub Copilot Usage
+  https://docs.github.com/en/copilot/responsible-use
+
+- GitHub Copilot Fundamentals, Plans, and Core Features
+  https://docs.github.com/en/copilot/get-started/what-is-github-copilot
+
+- Copilot in the IDE: Suggestions, Chat, Inline Chat, and Edits
+  https://docs.github.com/en/copilot/how-tos/get-code-suggestions
+
+- Prompt Crafting, Prompt Engineering, and Context Control
+  https://docs.github.com/en/copilot/get-started/best-practices
+
+- How Copilot Works: Context, Data Flow, and Limitations
+  https://docs.github.com/en/copilot/concepts/learning-about-new-features-and-models
+
+- Privacy, Public Code Matching, Content Exclusions, and Safeguards
+  https://docs.github.com/en/copilot/concepts/context/content-exclusion
+
+- Administration, Policy Management, and Enterprise Governance
+  https://docs.github.com/en/copilot/concepts/policies
+
+- Developer Productivity, SDLC, and Practical Use Cases
+  https://docs.github.com/en/copilot/get-started/features
+
+- Testing with GitHub Copilot
+  https://docs.github.com/en/copilot/tutorials/copilot-cookbook/testing-code
+
+- GitHub.com Workflows: Pull Requests, Code Review, and Issues
+  https://docs.github.com/en/copilot/tutorials/roll-out-at-scale/drive-downstream-impact/accelerate-pull-requests
+
+- Spaces, Knowledge Bases, and MCP Server
+  https://docs.github.com/en/copilot/how-tos/provide-context/use-copilot-spaces/use-copilot-spaces
+
+- Agents, CLI, Metrics, and Advanced Operational Capabilities
+  https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/overview
+
+
