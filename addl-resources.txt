@@ -1,1 +1,6 @@
 
+Agentic AI for Github
+
+https://learn.microsoft.com/en-us/training/paths/gh-developing-agentic-systems-1
+
+https://learn.microsoft.com/en-us/training/paths/github-agentic-systems-part-two/github-agentic-systems-part-two
