@@ -25,6 +25,8 @@ https://github.com/MicrosoftLearning/mslearn-github-copilot-dev/tree/main/LabFil
 
 https://github.com/MicrosoftDocs/mslearn-advanced-copilot
 
+https://awesome-copilot.github.com/
+
 Additional repo
 
 https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/
