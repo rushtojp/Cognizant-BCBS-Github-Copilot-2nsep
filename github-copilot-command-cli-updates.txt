@@ -1,0 +1,87 @@
+Prerequisites & Account Setup
+
+Active GitHub account with a Copilot plan (Free, Pro, Pro+, Business, or Enterprise).
+
+Open terminal: PowerShell or Windows Terminal (Windows), or Bash/Zsh (macOS/Linux).
+
+Installation Commands
+
+winget install GitHub.CopilotCLI (Windows Package Manager)
+
+npm install -g @github/copilot (Universal via Node.js)
+
+brew install github-copilot-cli (macOS / Linux Homebrew)
+
+curl -fsSL [https://gh.io/copilot-install](https://gh.io/copilot-install) | bash (macOS / Linux shell script)
+
+gh copilot (Automatic install via GitHub CLI extension)
+
+Authentication & Launch
+
+copilot auth (Direct CLI browser-based device authentication)
+
+gh auth login --web (GitHub CLI web authorization)
+
+copilot (Start an interactive session in current workspace)
+
+Built-In Interactive Slash Commands
+
+/help (View keybindings, flags, and controls)
+
+/plan <task> (Create an execution roadmap before generating code)
+
+/model (Switch LLM backends: Claude 3.5 Sonnet, GPT-4o, o1)
+
+/clear (Wipe current conversation history to reset context)
+
+Workspace, Git & Docker Prompts
+
+Summarize the git diff from the last commit in bullet points
+
+Find all uncommitted changes and draft a conventional commit message
+
+List all Docker containers currently running and their memory usage
+
+Scan package.json and tell me which dependencies have newer major versions
+
+Code Generation, Refactoring & Debugging Prompts
+
+Create a Node.js Express server on port 3000 with a /health endpoint and CORS enabled
+
+Refactor ./src/auth.ts to use async/await instead of nested promise chains
+
+Write unit tests for utils/formatters.js using Vitest, covering edge cases like null and undefined
+
+Convert ./scripts/deploy.sh into a cross-platform Python script
+
+Explain what the function calculateTax in ./src/billing.py does step-by-step
+
+Why am I getting "TypeError: Cannot read properties of undefined (reading 'map')" in components/UserList.tsx?
+
+Find any potential SQL injection vulnerabilities across all files in the /api folder
+
+One-Line Execution & Explanation (Standalone CLI)
+
+copilot "Explain what 'tar -czvf archive.tar.gz /path/to/folder' does"
+
+copilot "Explain what 'Get-Process | Sort-Object CPU -Descending | Select-Object -First 5' does"
+
+copilot "Find all .log files in the current folder modified in the last 7 days"
+
+copilot -p "Run git status and summarize modified files" (Headless/scripting mode)
+
+One-Line Operations (gh copilot Extension & Aliases)
+
+gh copilot explain "git log --graph --oneline --decorate --all"
+
+gh copilot explain "find . -type f -name '*.ts' -exec wc -l {} +"
+
+gh copilot suggest "list all docker containers and their memory usage"
+
+gh copilot alias -- pwsh | Out-String | Invoke-Expression (Generate PowerShell aliases)
+
+eval "$(gh copilot alias -- bash)" (Generate Bash aliases)
+
+ghce "kubectl get pods -A" (Quick explanation via alias)
+
+ghcs "find listening ports" (Quick command generation & execution via alias)
