@@ -2,3 +2,14 @@
 Github copilot modernization resources
 
 https://learn.microsoft.com/en-us/azure/developer/github-copilot-app-modernization/overview
+
+Upgrade tutorial (GitHub Docs): https://docs.github.com/en/enterprise-cloud@latest/copilot/tutorials/upgrade-projects
+Java modernization tutorial: https://docs.github.com/en/copilot/tutorials/modernize-java-applications
+Java upgrade quickstart (Microsoft Learn): https://learn.microsoft.com/en-us/azure/developer/github-copilot-app-modernization/quickstart-upgrade
+Supported languages/frameworks: https://learn.microsoft.com/en-us/azure/developer/github-copilot-app-modernization/languages
+Modernization CLI plugin repo: https://github.com/microsoft/github-copilot-modernization
+Custom instructions (IDE): https://docs.github.com/en/copilot/how-tos/configure-custom-instructions-in-your-ide/add-repository-instructions-in-your-ide
+Custom instructions (CLI): https://docs.github.com/en/copilot/how-tos/copilot-cli/customize-copilot/add-custom-instructions
+Community customization library: https://github.com/github/awesome-copilot
+Curated agents/skills list: https://github.com/Code-and-Sorts/awesome-copilot-agents
+GitHub blog on code-review instruction files: https://github.blog/ai-and-ml/github-copilot/unlocking-the-full-power-of-copilot-code-review-master-your-instructions-files/
