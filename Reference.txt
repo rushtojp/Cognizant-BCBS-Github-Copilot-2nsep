@@ -17,9 +17,13 @@ mastering github copilot
 
 https://github.com/rushtojp/Mastering-GitHub-Copilot-for-Paired-Programming
 
+mslearn-advanced-copilot
+
 Github exercise repo
 
 https://github.com/MicrosoftLearning/mslearn-github-copilot-dev/tree/main/LabFiles
+
+https://github.com/MicrosoftDocs/mslearn-advanced-copilot
 
 Additional repo
 
