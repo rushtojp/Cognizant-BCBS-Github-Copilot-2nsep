@@ -29,6 +29,8 @@ https://awesome-copilot.github.com/
 
 https://docs.github.com/en/copilot/tutorials/copilot-cookbook
 
+https://docs.github.com/en/copilot/tutorials
+
 Additional repo
 
 https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/
