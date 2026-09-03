@@ -13,6 +13,10 @@ Prompt file references
 
 https://docs.github.com/en/copilot/tutorials/customization-library/prompt-files
 
+mastering github copilot
+
+https://github.com/rushtojp/Mastering-GitHub-Copilot-for-Paired-Programming
+
 Github exercise repo
 
 https://github.com/MicrosoftLearning/mslearn-github-copilot-dev/tree/main/LabFiles
