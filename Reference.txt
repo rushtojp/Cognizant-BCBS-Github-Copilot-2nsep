@@ -9,6 +9,10 @@ GitHub Course References
 
 https://learn.microsoft.com/en-us/training/browse/?products=github
 
+Prompt file references
+
+https://docs.github.com/en/copilot/tutorials/customization-library/prompt-files
+
 Github exercise repo
 
 https://github.com/MicrosoftLearning/mslearn-github-copilot-dev/tree/main/LabFiles
