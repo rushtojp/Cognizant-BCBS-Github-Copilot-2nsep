@@ -2,6 +2,6 @@
 
 
 
-github copilot spaces
+github copilot spaces - uses codespaces
 
 https://github.com/skills/scale-institutional-knowledge-using-copilot-spaces
