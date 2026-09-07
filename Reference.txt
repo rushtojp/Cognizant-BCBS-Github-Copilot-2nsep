@@ -75,4 +75,10 @@ GitHub Copilot Documentation & Resources
 - Agents, CLI, Metrics, and Advanced Operational Capabilities
   https://docs.github.com/en/copilot/how-tos/copilot-cli/use-copilot-cli/overview
 
+Writing good agents.md : https://www.philschmid.de/writing-good-agents
+
+tools with agents : https://code.visualstudio.com/docs/agents/run/tools
+
+evaluating agents.md whitepaper - uploaded
+
 
