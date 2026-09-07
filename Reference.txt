@@ -5,6 +5,10 @@ Github copilot 1st lab link
 
 https://github.com/skills/getting-started-with-github-copilot
 
+Github copilot demos 
+
+https://massimobonanni.github.io/GitHubCopilot-Demos/
+
 GitHub Course References
 
 https://learn.microsoft.com/en-us/training/browse/?products=github
