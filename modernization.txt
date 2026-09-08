@@ -1,3 +1,6 @@
+industrialization - resources
+
+https://docs.github.com/en/copilot/tutorials
 
 Github copilot modernization resources
 
