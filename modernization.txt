@@ -3,6 +3,8 @@ Github copilot modernization resources
 
 https://learn.microsoft.com/en-us/azure/developer/github-copilot-app-modernization/overview
 
+Success stories
+
 https://github.com/customer-stories/all?feature=GitHub%2BCopilot#browse
 
 Upgrade tutorial (GitHub Docs): https://docs.github.com/en/enterprise-cloud@latest/copilot/tutorials/upgrade-projects
