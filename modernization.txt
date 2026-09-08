@@ -3,6 +3,10 @@ Github copilot modernization resources
 
 https://learn.microsoft.com/en-us/azure/developer/github-copilot-app-modernization/overview
 
+Github copilot modernization
+
+https://github.com/microsoft/github-copilot-modernization
+
 Success stories
 
 https://github.com/customer-stories/all?feature=GitHub%2BCopilot#browse
