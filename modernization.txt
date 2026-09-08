@@ -3,6 +3,8 @@ Github copilot modernization resources
 
 https://learn.microsoft.com/en-us/azure/developer/github-copilot-app-modernization/overview
 
+https://github.com/customer-stories/all?feature=GitHub%2BCopilot#browse
+
 Upgrade tutorial (GitHub Docs): https://docs.github.com/en/enterprise-cloud@latest/copilot/tutorials/upgrade-projects
 Java modernization tutorial: https://docs.github.com/en/copilot/tutorials/modernize-java-applications
 Java upgrade quickstart (Microsoft Learn): https://learn.microsoft.com/en-us/azure/developer/github-copilot-app-modernization/quickstart-upgrade
