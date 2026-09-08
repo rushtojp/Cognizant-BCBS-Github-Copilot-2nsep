@@ -1,3 +1,11 @@
+modernizing legacy code - cobol code
+
+https://docs.github.com/en/copilot/tutorials/modernize-legacy-code
+
+Modernizing legacy code with GitHub Copilot: Tips and examples
+
+https://github.blog/ai-and-ml/github-copilot/modernizing-legacy-code-with-github-copilot-tips-and-examples/
+
 industrialization - resources
 
 https://docs.github.com/en/copilot/tutorials
